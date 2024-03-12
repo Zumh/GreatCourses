@@ -8,7 +8,11 @@ Courses I'm taking
 ## Operating Systems
 - Operating Systems: Principles and Practice (2nd Edition)
 - https://cs162.org/
-https://ospp.cs.washington.edu/instructor.html
+- https://ospp.cs.washington.edu/instructor.html
+- Course Website: https://cs162.org/
+- Lecture Videos: https://www.youtube.com/watch?v=YfHY0pvpRkk, videos for each lecture can be found on the course website.
+- Textbook: Operating Systems: Principles and Practice (2nd Edition)
+- Assignments: https://cs162.org/, 6 Homework, 3 Projects, the course website has specific requirements.
 ## Network programming
 - https://cs144.github.io/
 ### Ref
