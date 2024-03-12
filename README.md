@@ -10,6 +10,6 @@ Courses I'm taking
 - https://cs162.org/
 https://ospp.cs.washington.edu/instructor.html
 ## Network programming
-https://cs144.github.io/
+- https://cs144.github.io/
 ### Ref
 https://csdiy.wiki/en/
